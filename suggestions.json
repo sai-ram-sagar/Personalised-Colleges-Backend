@@ -1,0 +1,40 @@
+{
+    "courses" : [
+        "Computer Science", "Mechanical Engineering", "Civil Engineering", "Electrical Engineering",
+        "Electronics and Communication", "Chemical Engineering", "Biotechnology", "Information Technology",
+        "Law", "Medicine", "Pharmacy", "Dentistry", "Nursing", "Architecture", "Business Administration",
+        "Arts", "Commerce", "Science", "Physics", "Mathematics", "B.Tech", "MBA", "MCA", "PhD"
+    ],
+    
+    
+    "locations" : [
+      "Amaravati",
+      "Itanagar",
+      "Dispur",
+      "Patna",
+      "Raipur",
+      "Panaji",
+      "Gandhinagar",
+      "Chandigarh",
+      "Shimla",
+      "Ranchi",
+      "Bengaluru",
+      "Thiruvananthapuram",
+      "Bhopal",
+      "Mumbai",
+      "Imphal",
+      "Shillong",
+      "Aizawl",
+      "Kohima",
+      "Bhubaneswar",
+      "Jaipur",
+      "Gangtok",
+      "Chennai",
+      "Hyderabad",
+      "Agartala",
+      "Lucknow",
+      "Dehradun",
+      "Kolkata"
+    ]
+  }
+  
