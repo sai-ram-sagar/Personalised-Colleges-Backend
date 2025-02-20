@@ -359,7 +359,7 @@ app.post("/api/callback-requests", async (req, res) => {
       // Format requestTime properly for MySQL
       const requestTimeFormatted = new Date(requestTime).toISOString().slice(0, 19).replace("T", " ");
   
-      await db.execute(
+      await db.run(
         `INSERT INTO callback_requests (userId, collegeId, collegeName, mobileNumber, callbackDate, callbackTime, requestTime) 
          VALUES (?, ?, ?, ?, ?, ?, ?)`,
         [userId, collegeId, collegeName, mobileNumber, callbackDate, callbackTime, requestTimeFormatted]
