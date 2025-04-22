@@ -2,7 +2,7 @@
 
 Backend for the **Personalised College Recommendations App** — a full-stack (React + Node) web application that helps users discover colleges tailored to their preferences using basic content-based filtering.
 
-🖥️ **Frontend Repo**: [https://github.com/sai-ram-sagar/Personalised-Colleges-Frontend](https://github.com/yourusername/Personalised-Colleges-Frontend)  
+🖥️ **Frontend Repo**: [https://github.com/sai-ram-sagar/Personalised-Colleges-Frontend.git](https://github.com/yourusername/Personalised-Colleges-Frontend.git)  
 🌐 **Live App**: [https://personalised-colleges-recommendations.onrender.com](https://personalised-colleges-recommendations.onrender.com)
 
 ---
